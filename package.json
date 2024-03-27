@@ -1,0 +1,23 @@
+{
+  "name": "aula-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnryan/Atividade.git"
+  },
+  "keywords": [
+    "teste",
+    "softwere"
+  ],
+  "author": "Marcelo Ryan da Silva Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrnryan/Atividade/issues"
+  },
+  "homepage": "https://github.com/mrnryan/Atividade#readme"
+}
